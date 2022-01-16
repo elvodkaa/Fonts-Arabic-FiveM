@@ -1,6 +1,6 @@
 local fontId = nil
-RegisterFontFile('A9eelsh') 
-fontId = RegisterFontId('A9eelsh')
+RegisterFontFile('out') 
+fontId = RegisterFontId('Arb')
 Citizen.CreateThread(function()
     while true do
         Citizen.Wait(10)
