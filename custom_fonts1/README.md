@@ -3,12 +3,12 @@
 
 # الاستعمال:
 ```
-    RegisterFontFile('a9eelsh')
-    fontId = RegisterFontId('a9eelsh')
+    RegisterFontFile('A9eelsh')
+    fontId = RegisterFontId('A9eelsh')
     SetTextFont(fontId)
 ```
 ```
-<FONT FACE='a9eelsh'>
+<FONT FACE='A9eelsh'>
 ```
 
 ## عرض الخط
